@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://404not-found.netlify.app}">
+    <a href="https://404not-found.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://404not-found.netlify.app}">
+    <a href="https://404not-found.netlify.app">
       Solution
     </a>
     <span> | </span>
